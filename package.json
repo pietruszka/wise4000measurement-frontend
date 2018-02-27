@@ -1,0 +1,32 @@
+{
+  "name": "wise4000measurement-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietruszka/wise4000measurement-frontend.git"
+  },
+  "author": "Piotr Pietruszka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietruszka/wise4000measurement-frontend/issues"
+  },
+  "homepage": "https://github.com/pietruszka/wise4000measurement-frontend#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "isomorphic-unfetch": "^2.0.0",
+    "mongoose": "^5.0.7",
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "request": "^2.83.0",
+    "request-with-cookies": "0.0.5"
+  }
+}
